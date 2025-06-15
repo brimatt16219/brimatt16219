@@ -22,16 +22,17 @@ I'm a passionate Software Engineer and CS Senior @ UCF
 ---
 
 ## Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=changbrian&theme=tokyonight&hide_border=true)
 
-![Brian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=changbrian&show_icons=true&theme=radical&hide_rank=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=changbrian&layout=compact&theme=radical)
+### Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changbrian&size_weight=0.3&count_weight=0.7&layout=compact&langs_count=6&theme=tokyonight&hide_border=true)
 
 ---
 
 ## Current Projects
 
-- 🗺 **Voyager** – Smart route optimizer using Google Maps API to efficiently visit retail stores
-- 🛡 **Hemo Web App** – Angular admin portal for the VR experience, Dr. Hemo's Great Escape
+- **Voyager** – Smart route optimizer using Google Maps API to efficiently visit retail stores
+- **Hemo Web App** – Angular admin portal for the VR experience, Dr. Hemo's Great Escape
 
 ---
 
