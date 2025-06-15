@@ -22,10 +22,10 @@ I'm a passionate Software Engineer and CS Senior @ UCF
 ---
 
 ## Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=changbrian&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=brimatt16219&theme=tokyonight&hide_border=true)
 
 ### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=changbrian&size_weight=0.3&count_weight=0.7&layout=compact&langs_count=6&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brimatt16219&size_weight=0.3&count_weight=0.7&layout=compact&langs_count=6&theme=tokyonight&hide_border=true)
 
 ---
 
