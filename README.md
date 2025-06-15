@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Brian Chang
+# Hi, I'm Brian Chang
 
 I'm a passionate Software Engineer and CS Senior @ UCF
 
@@ -29,16 +29,16 @@ I'm a passionate Software Engineer and CS Senior @ UCF
 
 ---
 
-## Current Projects
+## Projects
 
 - **Voyager** – Smart route optimizer using Google Maps API to efficiently visit retail stores
 - **Hemo Web App** – Angular admin portal for the VR experience, Dr. Hemo's Great Escape
 
 ---
 
-## How to Reach Me
+## Socials
 
-- 📧 [Email me](mailto:brimatt062495@gmail.com)
-- 🌐 [Portfolio Website](#) *(coming soon!)*
-- 💼 [LinkedIn](https://www.linkedin.com/in/ch4ng)
+- [Email me](mailto:brimatt062495@gmail.com)
+- [Portfolio Website](#) *(coming soon!)*
+- [LinkedIn](https://www.linkedin.com/in/ch4ng)
 
