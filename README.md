@@ -1,6 +1,20 @@
 # Hello, I'm Brian Chang
 
-I'm a passionate Software Engineer and CS Senior @ UCF! 
+## About Me
+
+I'm a passionate Software Engineer and CS Senior @ UCF!
+Some of my favorite tech stacks and tools to work with:
+
+- **Frontend:**  <code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/></code><code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png" alt="Angular" title="Angular"/></code><code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
+<code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" alt="Vite" title="Vite"/></code>
+- **Backend:** 
+<code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/_net_core.png" alt=".NET Core" title=".NET Core"/></code>
+<code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code>
+<code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/express.png" alt="Express" title="Express"/></code>
+- **Languages:** <code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
+<code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
+<code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/></code>
+<code><img width="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" alt="C#" title="C#"/></code>
 
 
 ## Stats
@@ -12,7 +26,5 @@ I'm a passionate Software Engineer and CS Senior @ UCF!
 
 
 
-## Projects
-
-- **Voyager** – Smart route optimizer using Google Maps API to efficiently visit retail stores  
-- **Hemo Web App** – Angular admin portal for the VR experience, Dr. Hemo's Great Escape
+## Portfolio
+[Explore my personal portfolio to see my projects, skills, and background](https://portfolio-iota-teal-82.vercel.app/)
