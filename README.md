@@ -27,5 +27,6 @@ Some of my favorite tech stacks and tools to work with:
 
 
 ## Links
-[Portfolio](https://portfolio-iota-teal-82.vercel.app/)
-[LinkedIn](https://www.linkedin.com/in/ch4ng/)
+- [Portfolio](https://portfolio-iota-teal-82.vercel.app/)
+- [LinkedIn](https://www.linkedin.com/in/ch4ng/)
+- brimatt062495@gmail.com
