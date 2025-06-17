@@ -26,5 +26,6 @@ Some of my favorite tech stacks and tools to work with:
 
 
 
-## Portfolio
-[Explore my personal portfolio to see my projects, skills, and background](https://portfolio-iota-teal-82.vercel.app/)
+## Links
+[Portfolio](https://portfolio-iota-teal-82.vercel.app/)
+[LinkedIn](https://www.linkedin.com/in/ch4ng/)
